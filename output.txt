@@ -1,0 +1,4 @@
+The goodies selected for distribution: 
+Digital Camera: 11101
+Alexa: 9999
+And the difference between  chosen goodie with highest price and the lowest price are 1102
